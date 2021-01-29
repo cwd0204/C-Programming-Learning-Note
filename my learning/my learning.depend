@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611896121 source:c:\users\weidongc\documents\github\c-programming-learning-note\my learning\helloworld.c
+
+1514140574 source:c:\users\weidongc\documents\github\c-programming-learning-note\my learning\main.c
+	<stdio.h>
+	<stdlib.h>
+
